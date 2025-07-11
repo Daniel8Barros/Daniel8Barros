@@ -2,6 +2,7 @@
 
 Networks 😄
 <!-- -->
+🧠 CCNA, AZ-900
 🌱 Python, Linux, CCNP
 <!--
 **Daniel8Barros/Daniel8Barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
